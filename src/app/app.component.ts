@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'aula12';
+  title = 'introducao-angular';
 
-  desabilitado: boolean = true;
+  urlImagem = 'http://lorempixel.com.br/400/200';
 }
